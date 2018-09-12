@@ -23,7 +23,7 @@ Requirements are statements about an intended product which specify what it shou
 
 ## Problem-Definition Prerequisite
 
-<img align="right" width="156" height="256" src="https://flylib.com/books/2/823/1/html/2/images/0735619670/graphics/03fig04.gif">
+<img align="right" width="200" height="300" src="https://flylib.com/books/2/823/1/html/2/images/0735619670/graphics/03fig04.gif">
 
 The first prerequisite you need to fulfill before beginning construction is a clear statement of the problem that the system is supposed to solve.
 

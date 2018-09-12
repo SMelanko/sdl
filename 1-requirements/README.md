@@ -1,4 +1,4 @@
-## Table of Contents
+## Table Of Contents
 
 - [Overview](#overview)
 - [Goals](#goals)
@@ -6,7 +6,7 @@
 <a name="overview"></a>
 ## Overview
 
-Requirements are statements about an intended product which specify what it should do or how to do it. For requirements to be effectively implemented and measured, they must be specific, unambiguous and clear.
+Requirements are statements about an intended product which specify what it should do or how to do it, and they are the first step toward a solution.. For requirements to be effectively implemented and measured, they must be specific, unambiguous and clear.
 
 <p align="center">
     <img src="./imgs/requirement-types.png">
@@ -19,7 +19,19 @@ Requirements are statements about an intended product which specify what it shou
 
 1. Create a better understanding of the business needs to contribute to a successful software development process.
 
-2. Risk reduction. A good project planner clears major risks out of the way as early as possible so that the bulk of the project can proceed as smoothly as possible. By far the most common project risks in software development are poor requirements and poor project planning, thus preparation tends to focus on improving requirements and project plans.
+2. Risk reduction. A good project planner clears major risks out of the way as early as possible so that the bulk of the project can proceed as smoothly as possible. By far the most common project risks in software development are poor requirements and poor project planning.
+
+## Problem-Definition Prerequisite
+
+<img align="right" width="156" height="256" src="https://flylib.com/books/2/823/1/html/2/images/0735619670/graphics/03fig04.gif">
+
+The first prerequisite you need to fulfill before beginning construction is a clear statement of the problem that the system is supposed to solve.
+
+A problem definition defines what the problem is without any reference to possible solutions. It’s a simple statement, maybe one or two pages, and it should sound like a problem.
+
+The problem definition should be in user language, and the problem should be described from a user’s point of view
+
+The penalty for failing to define the problem is that you can waste a lot of time solving the wrong problem. This is a double-barreled penalty because you also do not solve the right problem.
 
 ## Causes Of Incomplete Preparation
 
@@ -102,21 +114,8 @@ You might choose a more iterative (as-you-go) approach when
 * Long-term predictability is not important.
 * The cost of changing requirements, design, and code downstream is likely to be low.
 
-## Problem-Definition Prerequisite
-
-The first prerequisite you need to fulfill before beginning construction is a clear state- ment of the problem that the system is supposed to solve.
-
-A problem definition defines what the problem is without any reference to possible solutions. It’s a simple statement, maybe one or two pages, and it should sound like a problem.
-
-![figure-1](https://flylib.com/books/2/823/1/html/2/images/0735619670/graphics/03fig04.gif)
-
-The problem definition should be in user language, and the problem should be described from a user’s point of view
-
-The penalty for failing to define the problem is that you can waste a lot of time solving the wrong problem. This is a double-barreled penalty because you also do not solve the right problem.
-
-Requirements describe in detail what a software system is supposed to do, and they are the first step toward a solution.
-
 ## Sources
 
 1. [Code Complete (2nd edition), Steve McConnell, 2004](https://en.wikipedia.org/wiki/Code_Complete)
-2. [Gathering Good Requirements for Developers, Robert Bogue, 2014](https://www.pluralsight.com/courses/gathering-good-requirements-developers)
+1. [Gathering Good Requirements for Developers, Robert Bogue, 2014](https://www.pluralsight.com/courses/gathering-good-requirements-developers)
+1. [Requirements Gathering: A Step By Step Approach For A Better User Experience (Part 1)](https://usabilitygeek.com/requirements-gathering-user-experience-pt1/)

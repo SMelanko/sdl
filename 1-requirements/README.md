@@ -1,6 +1,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Goals](#goals)
 
 <a name="overview"></a>
 ## Overview
@@ -8,12 +9,13 @@
 Requirements are statements about an intended product which specify what it should do or how to do it. For requirements to be effectively implemented and measured, they must be specific, unambiguous and clear.
 
 <p align="center">
-    <img src="./imgs/req-types.png">
+    <img src="./imgs/requirement-types.png">
 </p>
 
-## Goal
+<a name="goals"></a>
+## Goals
 
-<img align="right" width="156" height="156" src="http://www.pngall.com/wp-content/uploads/2018/04/Goal-PNG-Picture.png">
+<img align="right" width="156" height="156" src="./imgs/goal.png">
 
 1. Create a better understanding of the business needs to contribute to a successful software development process.
 

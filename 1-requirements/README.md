@@ -6,7 +6,7 @@
 <a name="overview"></a>
 ## Overview
 
-Requirements are statements about an intended product which specify what it should do or how to do it, and they are the first step toward a solution.. For requirements to be effectively implemented and measured, they must be specific, unambiguous and clear.
+Requirements are statements about an intended product which specify what it should do or how to do it, and they are the first step toward a solution. For requirements to be effectively implemented and measured, they must be specific, unambiguous and clear.
 
 <p align="center">
     <img src="./imgs/requirement-types.png">
@@ -19,7 +19,11 @@ Requirements are statements about an intended product which specify what it shou
 
 1. Create a better understanding of the business needs to contribute to a successful software development process.
 
-2. Risk reduction. A good project planner clears major risks out of the way as early as possible so that the bulk of the project can proceed as smoothly as possible. By far the most common project risks in software development are poor requirements and poor project planning.
+1. Document our agreement.
+
+1. Risk reduction. A good project planner clears major risks out of the way as early as possible so that the bulk of the project can proceed as smoothly as possible. By far the most common project risks in software development are poor requirements and poor project planning.
+
+1. Reduce project cost.
 
 ## Problem-Definition Prerequisite
 
@@ -43,6 +47,12 @@ The penalty for failing to define the problem is that you can waste a lot of tim
 From a management point of view, planning means determining the amount of time, number of people, and number of computers the project will need.
 
 From a technical point of view, planning means understanding what you want to build so that you do not want to spend a lot of time and money going down blind alleys when there is no need to, especially when that increases costs.
+
+Rework consumes 30-50% of the total development budget.
+
+Requirements errors can account for 70-80% of the rework costs.
+
+Therefore... Requirements errors account for about 20-40% of the development budget.
 
 Researchers at Hewlett-Packard, IBM, Hughes Aircraft, TRW, and other organizations have found that purging an error by the beginning of construction allows rework to be done 10 to 100 times less expensively than when it’s done in the last part of the pro- cess
 
@@ -118,4 +128,5 @@ You might choose a more iterative (as-you-go) approach when
 
 1. [Code Complete (2nd edition), Steve McConnell, 2004](https://en.wikipedia.org/wiki/Code_Complete)
 1. [Gathering Good Requirements for Developers, Robert Bogue, 2014](https://www.pluralsight.com/courses/gathering-good-requirements-developers)
+1. [The Deadline: A Novel About Project Management, Tom DeMarco, 1997](https://en.wikipedia.org/wiki/Tom_DeMarco)
 1. [Requirements Gathering: A Step By Step Approach For A Better User Experience (Part 1)](https://usabilitygeek.com/requirements-gathering-user-experience-pt1/)

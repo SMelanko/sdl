@@ -6,6 +6,12 @@
     <img src="./imgs/dev-process.png">
 </p>
 
+TODO: Requirement part - another project
+
+## TODO: Cycle vs waterflow
+
+## Roles
+
 ## Team Managment
 
 <p align="center">

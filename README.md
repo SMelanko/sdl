@@ -1,6 +1,6 @@
 # Software Development Life Cycle
 
-## Development process
+## Software Development Process
 
 <p align="center">
     <img src="./imgs/dev-process.png">
@@ -8,9 +8,9 @@
 
 TODO: Requirement part - another project
 
-## TODO: Cycle vs waterflow
+## Software Development Methodologies
 
-## Roles
+## Software Development Roles
 
 ## Team Managment
 
@@ -20,7 +20,7 @@ TODO: Requirement part - another project
 
 Colors:
 - #007fff
-- #808080
+- #808080 / #A6A6A6
 - #ff7f00
 
 Images:

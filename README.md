@@ -20,7 +20,11 @@ to meet for a product.
 
 ## Software Development Methodologies
 
-Software development methodology is a set of related activities that leads to the production of the software.
+Software development methodology is a framework that is used to structure, plan, and control the process of developing software application.
+
+<p align="center">
+    <img src="./imgs/software-development-methodologies.png">
+</p>
 
 waterfall
 iterative
@@ -31,9 +35,19 @@ https://www.pinterest.com/pin/355362226828550368/
 
 https://stackify.com/what-is-sdlc/
 
+https://agilewheel.com/2016/09/27/agile-vs-waterfall-which-one-to-use-and-for-what-projects/
+
+http://www.itinfo.am/eng/software-development-methodologies/
+
 ## Software Development Roles
 
 The responsibilities of the people involved in the process.
+
+- Business Analist
+- Solutions Architect
+- Development Lead
+- Developer
+- Quality Assurance
 
 ## Team Managment
 

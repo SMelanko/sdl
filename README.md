@@ -16,22 +16,21 @@ into distinct stages to improve management and final product.
 
 1. Requirements analysis encompasses those tasks that go into determining the needs or conditions
 to meet for a product.
-1. ...
+1. Design phase starts by turning the software specifications into architecture solution.
+1. Construction stage develops the software by generating all the actual code.
+1. In testing stage, we test for defects and deficiencies. Fix those issues until the product meets the original specifications.
 
 ## Software Development Methodologies
 
-Software development methodology is a framework that is used to structure, plan, and control the process of developing software application.
+Software development methodology is a framework that is used to structure, plan, and control the process of developing software application. The two basic, most popular methodologies are:
+- Waterfall is a linear approach to software development.
+- Agile is an iterative, team-based approach to development.
 
 <p align="center">
     <img src="./imgs/software-development-methodologies.png">
 </p>
 
-waterfall
-iterative
-spiral
-v-model
-agile
-https://www.pinterest.com/pin/355362226828550368/
+Also, there are several more models, e.g. iterative, v-shaped, big bang, spiral and etc.
 
 https://stackify.com/what-is-sdlc/
 

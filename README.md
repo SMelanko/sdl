@@ -38,15 +38,17 @@ https://agilewheel.com/2016/09/27/agile-vs-waterfall-which-one-to-use-and-for-wh
 
 http://www.itinfo.am/eng/software-development-methodologies/
 
-## Software Development Roles
+## Software Development Roles And Responsibilities
 
 The responsibilities of the people involved in the process.
 
-- Business Analist
-- Solutions Architect
-- Development Lead
-- Developer
-- Quality Assurance
+- `Subject Matter Expert` or `Domain Expert` is a person who has superior (expert) knowledge of the entire business area.
+- `Product Owner` is a person who represents the business or end-users and is responsible for working with the user group to determine what features will be in the product release.
+- `Project Manager` is responsible for knowing the "who, what, where, when and why" of the software project.
+- `Solution Architect` is a person who translates the business requirements into a technical solution.
+- `Development Lead` is a person who leads the team that actually builds it.
+- `Developer` (backend or frontend) is a person who is responsible for building particular subsystems, modules or features a development product.
+- `Quality Assurance` is a presong who ensures that the software solution meets the business requirements and that it is free of bugs, errors and defects.
 
 ## Team Managment
 
